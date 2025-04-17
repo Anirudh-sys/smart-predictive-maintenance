@@ -1,4 +1,3 @@
-# slm-predictive-maintenance-iot
 
 # SmartEdgePM: Predictive Maintenance using Small Language Models (SLM) and IoT Data
 
